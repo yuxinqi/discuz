@@ -11,6 +11,7 @@
 ## 置顶
 
 - [亮剑应用中心](http://addon.discuz.com/?@liangjian)
+- [Discuz!技术文库](https://yuxinqi.github.io/dz/)
 
 ## 官方文档
 
